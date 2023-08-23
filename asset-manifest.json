@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unique-blogs/static/css/main.a4fd6c88.css",
+    "main.js": "/unique-blogs/static/js/main.9dd6c38e.js",
+    "static/js/787.becfb2e4.chunk.js": "/unique-blogs/static/js/787.becfb2e4.chunk.js",
+    "index.html": "/unique-blogs/index.html",
+    "main.a4fd6c88.css.map": "/unique-blogs/static/css/main.a4fd6c88.css.map",
+    "main.9dd6c38e.js.map": "/unique-blogs/static/js/main.9dd6c38e.js.map",
+    "787.becfb2e4.chunk.js.map": "/unique-blogs/static/js/787.becfb2e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4fd6c88.css",
+    "static/js/main.9dd6c38e.js"
+  ]
+}
